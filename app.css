@@ -1,0 +1,35 @@
+body {
+    background-image: url('https://www.google.com/imgres?q=pongal%20background%20image%20download%20for%20css&imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2F29%2F4d%2F30%2F294d30f4c6be4fbae5e84d5c1422779a.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F829647562591528098%2F&docid=Aqy109RSn6L9jM&tbnid=tkGgRFhMjpXB3M&vet=12ahUKEwj1vtHN2p2LAxUAbvUHHd_vCkQQM3oECDEQAA..i&w=736&h=345&hcb=2&ved=2ahUKEwj1vtHN2p2LAxUAbvUHHd_vCkQQM3oECDEQAA');
+    background-size: cover;
+    background-position: center;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    font-size: 1.2em;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.8);
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+a:hover {
+    text-decoration: underline;
+}
